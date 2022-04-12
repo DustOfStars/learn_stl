@@ -79,15 +79,15 @@ include CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/stl0.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/stl0.cpp.o: ../stl0.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gavin/Desktop/stl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/stl0.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/stl0.cpp.o -c /home/gavin/Desktop/stl/stl0.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/stl0.cpp.o -c /home/gavin/Desktop/stl/stl0.cpp
 
 CMakeFiles/main.dir/stl0.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/stl0.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gavin/Desktop/stl/stl0.cpp > CMakeFiles/main.dir/stl0.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gavin/Desktop/stl/stl0.cpp > CMakeFiles/main.dir/stl0.cpp.i
 
 CMakeFiles/main.dir/stl0.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/stl0.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gavin/Desktop/stl/stl0.cpp -o CMakeFiles/main.dir/stl0.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gavin/Desktop/stl/stl0.cpp -o CMakeFiles/main.dir/stl0.cpp.s
 
 # Object files for target main
 main_OBJECTS = \

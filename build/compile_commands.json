@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/gavin/Desktop/stl/build",
-  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/main.dir/stl0.cpp.o -c /home/gavin/Desktop/stl/stl0.cpp",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/stl0.cpp.o -c /home/gavin/Desktop/stl/stl0.cpp",
   "file": "/home/gavin/Desktop/stl/stl0.cpp"
 }
 ]
